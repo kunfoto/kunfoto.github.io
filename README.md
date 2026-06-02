@@ -1,2 +1,2 @@
-# kunfoto.github.io
+# fotografodeviajes.github.io
 landingpage FotografoDeViajes
